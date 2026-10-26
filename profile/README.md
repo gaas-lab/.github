@@ -34,9 +34,10 @@ Sistema web de gestão para barbearias, reunindo agenda, serviços, equipe e aco
 - **Tecnologias:** React, JavaScript, Vite, CSS e Supabase
 
 ### 02 — ponto.
-Projeto do laboratório. A descrição e o link devem ser completados após confirmar o endereço correto do repositório.
+Aplicação web para registrar a jornada de trabalho, acompanhar o saldo de horas e estimar o horário de saída. Inclui calendário, dashboard, histórico, relatórios e exportação de dados.
 
-- **Repositório:** verificar URL e nome exatos antes de publicar o link.
+- **Repositório:** [gaas-lab/ponto.](https://github.com/gaas-lab/ponto.)
+- **Tecnologias:** React, Vite, CSS e Supabase
 
 ## // Como pensamos
 
